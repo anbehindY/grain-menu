@@ -34,10 +34,6 @@ function App() {
     }
   }, [data, loading, error]);
 
-  useEffect(() => {
-    console.log(sections);
-  }, [sections]);
-
   const { scrollY } = useScroll();
 
   useMotionValueEvent(scrollY, "change", (latest) => {
