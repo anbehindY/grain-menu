@@ -44,7 +44,7 @@ function App() {
       (section) => document.getElementById(`${section.id}`)?.offsetTop || 0
     );
     const currentSection = sectionHeights.findIndex(
-      (offset, i) => latest + 500 < (sectionHeights[i + 1] || Infinity)
+      (_, i) => latest + 500 < (sectionHeights[i + 1] || Infinity)
     );
 
     setActiveSection(sections[currentSection]?.id || "");
