@@ -46,6 +46,8 @@ This is a grain menu showing a list of items within their specific sections in a
 
 ### [Grain Menu on Vercel](https://grain-menu.vercel.app/)
 
+> Loading might take up to a minute, please don't mind the delay of the free tier on Render.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
