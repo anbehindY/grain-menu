@@ -116,3 +116,9 @@ pnpm dev
 > To make sure all the sections and items are displayed in order, I also sorted the data return from api to be in ascending order. The data is sorted in that way by default but just in case anything goes wrong, we can know that it was already sorted from the server.
 
 > Vite is not my go-to tech stack. I always use Next.js so even though I'm familiar wtih deploying React applications, I had to tweak some vite config for the deployed app to work properly on Vercel.
+
+### The Bigger Picture
+
+[Diagram on eraser.io](https://app.eraser.io/workspace/uVmbgRXLmjqYHzRo0WvQ?origin=share)
+
+![diagram](public/sketch.png)
